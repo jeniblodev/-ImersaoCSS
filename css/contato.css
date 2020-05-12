@@ -74,28 +74,9 @@ a:hover {
 
 .site-subtitle,
 .site-title {
-    align-items: stretch;
-    margin-right: 100px;
-    
+    text-align: left;
 }
 
 .site-title {
     font-size: 3em;
-    margin-top: -140px;
-    padding-bottom: 10px;
 }
-
-.site-subtitle {
-    padding-bottom: 80px;
-}
-
- .homepg {
-    display: flex;
-    border-radius: 60px;
-    max-width: 100%;
-    height: auto;
-    margin-top: 70px;
-    margin-left: 50px;
-    box-shadow: 0px 0px 10px 3px #808080;
- }
-

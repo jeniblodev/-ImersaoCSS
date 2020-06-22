@@ -15,6 +15,7 @@ Nesse repositório está o passo a passo de como foi iniciado o desenvolvimento 
 - CSS
 
 ## 🎨 Projetos
+*✓ Finalizado*
 
 - Desenvolvimento de um site pessoal.
 
